@@ -154,7 +154,7 @@
 }
 
 .about-us {
-  height: 90vh;
+  height: 85vh;
   display: flex;
   align-items: center;
 
@@ -197,27 +197,9 @@
       width: 100%;
     }
 
-    .stars {
-      margin: 30px 0;
-
-      @media (max-width: 1000px) {
-        margin: 15px 0;
-      }
-    }
-
-    .star {
-      font-size: 15px;
-      color: $color-primary;
-      margin-left: 10px;
-
-      @media (max-width: 1000px) {
-        font-size: 12px;
-      }
-    }
-
     .description {
       font-family: $font-josefinSans;
-      font-size: 25px;
+      font-size: 20px;
       font-style: italic;
       color: $color-secondary;
       text-align: justify;
