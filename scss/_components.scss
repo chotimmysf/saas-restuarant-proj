@@ -176,7 +176,12 @@
     font-size: 10px;
   }
 }
-
+.gallery {
+  font-size: 60px;
+  align-items: center;
+  font-family: $font-lato;
+  color: #bbb;
+}
 .card {
   width: 33.3333%;
   height: 30vw;

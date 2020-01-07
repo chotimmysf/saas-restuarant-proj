@@ -224,6 +224,15 @@
 }
 
 .gallery {
+  font: $font-lato;
+  font-size: 54px;
+  align-items: center;
+  color: #bbb;
+
+  @media (max-width: 1000px) {
+    font-size: 35px;
+  }
+
   .cards-wrapper {
     display: flex;
     flex-wrap: wrap;
