@@ -18,7 +18,11 @@ APP OVERVIEW
    The restaurant is on Yelp and other social media platforms, and for users to more easily access reviews, news, and other platforms the restaurant is on, the white icons will turn into a different color to indicate that clicking the icon will lead users to the appropriate page.
    ** NOTE: None of the social media buttons will lead to any other websites - these buttons were to display simple hover effects. **
 
-TECHNOLOGIES USED: HTML, CSS
+TECHNOLOGIES USED
+
+HTML
+
+CSS
 
 CHALLENGES
 
@@ -34,4 +38,6 @@ FUTURE IMPROVEMENTS
 
 Refine Skills: Review HTML/CSS elements/functions
 
-MENTOR: Alex Cho
+MENTOR
+
+Alex Cho
