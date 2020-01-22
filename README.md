@@ -20,9 +20,9 @@ While doing this project, I saw that SASS/CSS styles HTML, from aligning HTML te
 
 <b>TECHNOLOGIES USED</b>
 
-HTML
+<i>HTML</i>
 
-CSS
+<i>CSS</i>
 
 <b>CHALLENGES</b>
 
