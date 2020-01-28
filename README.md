@@ -1,3 +1,5 @@
+<a href="https://chotimmysf.github.io/sass-restaraunt-burmaden/">Link to Live Demo App</a>
+
 <b>BACKSTORY</b>
 
 This project was inspired by the "Restaraunt Georgia" project in this <a href="https://www.udemy.com/course/sass-the-complete-sass-course-css-preprocessor/learn/lecture/12992372#content">Udemy SASS Course.</a> This was also when I started learning the basics of HTML, SASS, and CSS. I wanted to make my first coding project something aestethically pleasing rather than 40 lines of "Hello World" text elements, so I did this project.
@@ -40,4 +42,4 @@ Refine Skills: Review HTML/CSS elements/functions
 
 <b>MENTOR</b>
 
-Alex Cho
+<a href="https://www.linkedin.com/in/alexsjcho/">Alex Cho</a>
